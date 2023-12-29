@@ -109,7 +109,7 @@ C-c C-t →  Marcas un tarea como pendiente “TODO” o “DONE”
 
 C-c C-s →  programas fecha de inicio de una tarea 
 C-c C-d →  colocas fecha fin de un tarea 
-C-s → buscar caracter en buffer 
+
 
 
 Etiquetas y propiedades:
@@ -157,6 +157,8 @@ C-x u → deshacer cambio
 C-g → Cancela la operación de cancelar
 C-x z → rehacer cambio
 M-x undo → deshaga cambios en orden cronológico inverso
+
+C-s → buscar caracter en buffer  + C-r continuar conicidencia
 
 C- space → seleccionar texto (presionar flechas direccion)
 M-x mark-whole-buffer → seleccionar todo el buffer 
